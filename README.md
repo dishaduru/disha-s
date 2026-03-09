@@ -27,6 +27,6 @@
      <big>the big text </big>
      <small>the small text</small>
      
-    </body>
+</body>
 
 </html>
